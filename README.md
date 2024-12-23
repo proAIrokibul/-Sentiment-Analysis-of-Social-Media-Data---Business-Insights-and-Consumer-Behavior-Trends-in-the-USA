@@ -1,5 +1,4 @@
 # Sentiment-Analysis-of-Social-Media-Data---Business-Insights-and-Consumer-Behavior-Trends-in-the-USA
-# Sentiment Analysis of Social Media Data: Business Insights and Consumer Behavior Trends in the USA
 
 This project explores the use of sentiment analysis on social media data to uncover valuable business insights and consumer behavior trends in the United States. By classifying social media posts into positive, neutral, and negative sentiments, this analysis provides actionable intelligence that businesses can leverage to refine strategies, improve customer engagement, and enhance brand perception.
 
